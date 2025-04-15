@@ -1,2 +1,0 @@
-1. Create new Dataframe with unique game and game id and # of votes, # of upvotes, 
-# of downvote 
