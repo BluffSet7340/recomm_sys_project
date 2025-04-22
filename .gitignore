@@ -3,4 +3,8 @@ steam_games_preprocessed.json
 steam_games.txt
 steam_new_preprocessed.json
 steam_new.txt
+<<<<<<< HEAD
 .venv
+=======
+obsolete/
+>>>>>>> d2c03f3763d610af30b09ab0cf0c498495ba28ff
