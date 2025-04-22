@@ -3,3 +3,4 @@ steam_games_preprocessed.json
 steam_games.txt
 steam_new_preprocessed.json
 steam_new.txt
+.venv
